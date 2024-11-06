@@ -22,11 +22,11 @@ Questo script Bash configura un broker MQTT utilizzando **Mosquitto** e **Docker
 1. **Clonare il repository** (se pertinente) o copiare lo script in una cartella sul sistema.
 2. Assicurarsi che Docker e Docker Compose siano installati e funzionanti.
 3. Rendere eseguibile lo script:
-    `chmod +x setup_mosquitto.sh`.
+    `chmod +x runMQTTBroker.sh`.
 
 ## Esecuzione
 
-**Eseguire lo script**: Per avviare lo script -> `./setup_mosquitto.sh`.    
+**Eseguire lo script**: Per avviare lo script -> `./runMQTTBroker.sh`.    
 
 ## Struttura directory
 
